@@ -1,2 +1,2 @@
 # Telegram-Bot
-Learnt about API programming by building a telegram bot
+I wanted to learn the basics of API programming so I built a telegram bot.
